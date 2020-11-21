@@ -1,0 +1,13 @@
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\obj\Debug\netcoreapp3.1\codigo_regra_de_tres.csprojAssemblyReference.cache
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\obj\Debug\netcoreapp3.1\codigo_regra_de_tres.AssemblyInfoInputs.cache
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\obj\Debug\netcoreapp3.1\codigo_regra_de_tres.AssemblyInfo.cs
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\obj\Debug\netcoreapp3.1\codigo_regra_de_tres.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\bin\Debug\netcoreapp3.1\codigo_regra_de_tres.exe
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\bin\Debug\netcoreapp3.1\codigo_regra_de_tres.deps.json
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\bin\Debug\netcoreapp3.1\codigo_regra_de_tres.runtimeconfig.json
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\bin\Debug\netcoreapp3.1\codigo_regra_de_tres.runtimeconfig.dev.json
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\bin\Debug\netcoreapp3.1\codigo_regra_de_tres.dll
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\bin\Debug\netcoreapp3.1\codigo_regra_de_tres.pdb
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\obj\Debug\netcoreapp3.1\codigo_regra_de_tres.dll
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\obj\Debug\netcoreapp3.1\codigo_regra_de_tres.pdb
+D:\ARQUIVOS\Programação\projetos\codigo_regra_de_tres\obj\Debug\netcoreapp3.1\codigo_regra_de_tres.genruntimeconfig.cache
